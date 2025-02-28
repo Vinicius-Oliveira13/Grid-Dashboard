@@ -22,9 +22,6 @@ Este projeto é um dashboard simples desenvolvido utilizando CSS Grid Template A
    ```
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 🖼️ Captura de Tela
-(Adicione aqui uma imagem ou gif do projeto rodando)
-
 ## 📄 Licença
 Este projeto está sob a licença MIT.
 
